@@ -11,7 +11,7 @@
   <b>Vymi Platforms</b> engineers ultra-low-latency edge infrastructure, content delivery networks, and resilient traffic scrubbing fabrics built for high-throughput gaming backends, streaming platforms, and distributed web ecosystems.
 </p>
 
-[Platform Overview](#-platform-ecosystem) • [Solutions](#-tailored-solutions) • [Documentation](#-resources--support) • [Contact](#-get-in-touch)
+[Platform Overview](#-platform-ecosystem) • [Solutions](#-solutions) • [Documentation](#-resources--support) • [Contact](#-get-in-touch)
 
 ---
 
@@ -57,9 +57,9 @@ We believe in radical transparency where it matters and ironclad isolation where
 
 ## 📖 Resources & Support
 
-* **[Documentation](https://www.google.com/search?q=https://docs.vymi.dev)** — Architecture guides, origin integration steps, and connection security.
-* **[Edge API](https://www.google.com/search?q=https://docs.vymi.dev/api)** — Programmable traffic controls, telemetry hooks, and automated provisioning.
-* **[Status Dashboard](https://www.google.com/url?sa=E&source=gmail&q=https://status.vymi.dev)** — Real-time uptime monitoring across our regional points of presence.
+* **[Documentation](https://docs.vymi.ru)** — Architecture guides, origin integration steps, and connection security.
+* **[Edge API](https://docs.vymi.ru/api)** — Programmable traffic controls, telemetry hooks, and automated provisioning.
+* **[Status Dashboard](https://status.vymi.ru)** — Real-time uptime monitoring across our regional points of presence.
 
 ---
 
